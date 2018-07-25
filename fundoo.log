@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-07-18T09:02:04.284066Z</date>
+  <millis>1531904524284</millis>
+  <nanos>66000</nanos>
+  <sequence>5</sequence>
+  <logger>com.fundoonotes.service</logger>
+  <level>INFO</level>
+  <class>com.fundoonotes.service.SyncService</class>
+  <method>sendUserToSyncService</method>
+  <thread>29</thread>
+  <message>****PROCESSING THE USER****</message>
+</record>
+<record>
+  <date>2018-07-18T09:02:04.313544Z</date>
+  <millis>1531904524313</millis>
+  <nanos>544000</nanos>
+  <sequence>6</sequence>
+  <logger>com.fundoonotes.service</logger>
+  <level>INFO</level>
+  <class>com.fundoonotes.service.SyncService</class>
+  <method>sendUserToSyncService</method>
+  <thread>29</thread>
+  <message>USER FROM SYNC SERVICE{HK=6, operation=insert, KEY=user, object={id=6, name=harshal, email=hg@gmail.com, password=sanpada, phoneNumber=null, operation=insert, verified=false}}</message>
+</record>
+</log>
